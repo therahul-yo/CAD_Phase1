@@ -2,7 +2,7 @@
 
 Welcome to the Wanderly Travel Blog project! This README will guide you through navigating the website, updating content, and understanding any dependencies.
 
-Link to the Website:https://wanderly-site.s3.ams03.cloud-object-storage.appdomain.cloud/index.html
+Link to the Website  which is hosted by IBM Cloud Object Stroage:https://wanderly-site.s3.ams03.cloud-object-storage.appdomain.cloud/index.html
 
 ## Table of Contents
 - [Navigation](#navigation)
